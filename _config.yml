@@ -1,8 +1,8 @@
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kelly Mae"
+title                    : "Xiaoxiao DUAN"
 title_separator          : "-"
-name                     : &name "Kelly Mae"
+name                     : &name "Xiaoxiao DUAN"
 description              : &description "personal description"
 url                      : https://antonettekelly.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -13,12 +13,12 @@ repository               : "antonettekelly/antonettekelly.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
-  name             : "Kelly Mae"
+  avatar           : "profile.PNG"
+  name             : "Xiaoxiao DUAN"
   pronouns         : "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
-  location         : "Tangerang, Indonesia"
-  employer         : # "..."
+  location         : "Hong Kong"
+  employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
   email            : "antonettekell@gmail.com" 
 
@@ -47,9 +47,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "kellym_ae"
+  instagram        : # Username
   lastfm           : # Username
-  linkedin         : "antonettekelly"
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
