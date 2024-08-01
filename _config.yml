@@ -1,5 +1,5 @@
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "Hong Kong"
 title                    : "Xiaoxiao DUAN"
 title_separator          : "-"
 name                     : &name "Xiaoxiao DUAN"
@@ -15,27 +15,27 @@ author:
   # Biographic information
   avatar           : "authorprofile.jpg"
   name             : "Xiaoxiao DUAN"
-  pronouns         : "she/her"  
+  program         : "PhD"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Hong Kong"
   employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
-  email            : "antonettekell@gmail.com" 
+  email            : "xiaoxiao.duan@connect.polyu.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-1210-5152"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : #""
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "antonettekelly"
+  github           : "Xiaoxiao1087"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -49,7 +49,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Xiaoxiao1087"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
