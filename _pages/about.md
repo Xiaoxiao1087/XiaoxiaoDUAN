@@ -13,7 +13,6 @@ About Me
 I am Duan Xiaoxiao, a fully-funded PhD candidate at The Hong Kong Polytechnic University, working on <span style="color: blue;"><strong>digital entrepreneurship</strong></span> and <span style="color: blue;"><strong>returnee entrepreneurship</strong></span>. My doctoral research, supervised by Dr. WU Qiaobing, focuses on the <span style="color: blue;"><strong>identity construction of returnee entrepreneurs</strong></span>. 
 </div>
 
-
 <div style="text-align: justify;"> 
 I have several manuscripts in progress under the guidance of esteemed scholars.  My involvement in these manuscripts reflects my dedication to conducting rigorous research in the fields of digital entrepreneurship, returnee entrepreneurship, and related topics. By collaborating with experts from diverse backgrounds, I aim to make meaningful contributions to the academic community and society at large."Specifically, I am collaborating with my supervisor, Dr. WU Qiaobing on two key manuscripts:
 </div>
