@@ -192,16 +192,16 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  teaching:
     output: true
     permalink: /:collection/:path/
-  talks:
+  posts:
+    output: true
+    permalink: /:collection/:path/
+  software:
     output: true
     permalink: /:collection/:path/
 
@@ -244,21 +244,21 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _software
   - scope:
       path: ""
-      type: portfolio
+      type: software
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _posts
   - scope:
       path: ""
-      type: talks
+      type: posts
     values:
-      layout: talk
+      layout: posts
       author_profile: true
       share: true
 
