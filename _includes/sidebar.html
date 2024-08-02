@@ -2,7 +2,19 @@
 
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+  {% if page.author_profile or layout.author_profile %}
+    {% include author-profile.html %}
+    <div class="author__info">
+      <h3>{{ site.author.name }}</h3>
+      <p>{{ site.author.bio }}</p>
+      {% if site.author.links %}
+        <ul class="profile-links">
+          {% for link in site.author.links %}
+            <li><a href="{{ link.url }}" {% if link.new_window %}target="_blank"{% endif %} {% if link.social_icon %}class="{{ link.social_icon }}"{% endif %}>{{ link.title }}</a></li>
+          {% endfor %}
+        </ul>
+    </div>
+  {% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
